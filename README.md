@@ -35,7 +35,7 @@ The notebook is optimized for execution in **Google Colab**, leveraging Google D
 ---
 
 ## 📊 Output
-1. **Data Visualization**
+1. **Dataset Visualization**
    ![](Output/newplot1.png)
 2. **Model Prediction Visualization**
    ![](Output/newplot2.png)
